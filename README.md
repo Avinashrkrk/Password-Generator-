@@ -1,2 +1,2 @@
 # Password Generator
-A Basic React 
+A Basic 
